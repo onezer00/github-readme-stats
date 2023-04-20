@@ -34,6 +34,7 @@
   "author": "Anurag Hazra",
   "license": "MIT",
   "devDependencies": {
+    "@vercel/analytics",
     "@actions/core": "^1.9.1",
     "@actions/github": "^4.0.0",
     "@testing-library/dom": "^8.17.1",
