@@ -34,7 +34,6 @@
   "author": "Anurag Hazra",
   "license": "MIT",
   "devDependencies": {
-    "@vercel/analytics",
     "@actions/core": "^1.9.1",
     "@actions/github": "^4.0.0",
     "@testing-library/dom": "^8.17.1",
@@ -53,6 +52,7 @@
     "prettier": "^2.1.2"
   },
   "dependencies": {
+    "@vercel/analytics": "^1.0.0",
     "axios": "^0.24.0",
     "dotenv": "^8.2.0",
     "emoji-name-map": "^1.2.8",
